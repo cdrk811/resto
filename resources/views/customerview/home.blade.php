@@ -1,0 +1,1 @@
+@extends('customerview.partials.index')
